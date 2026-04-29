@@ -1,0 +1,4 @@
+npm install @supabase/supabase-js
+git add .
+git commit -m "add supabase"
+git push
